@@ -1,0 +1,19 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- ON State -->
+    <item android:state_checked="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="50dp"/>
+            <solid android:color="#FF5722"/> <!-- Orange color when ON -->
+            <stroke android:width="2dp" android:color="#FFFFFF"/>
+        </shape>
+    </item>
+
+    <!-- OFF State -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="50dp"/>
+            <solid android:color="#088BF2"/> <!-- Gray color when OFF -->
+            <stroke android:width="2dp" android:color="#FFFFFF"/>
+        </shape>
+    </item>
+</selector>

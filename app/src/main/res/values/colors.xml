@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+
+    <color name="colorAccent">#1CE0CD</color>
+    <color name="colorPrimary">#14E28D</color>
+    <color name="colorPrimaryDark">#1F1C1C</color>
+    <color name="colorActive">#F44336</color>
+    <color name="colorInactive">#9E716F</color>
+           <!-- Green for sharing -->
+          <!-- Red for idle -->
+        <color name="colorBusStop">#FF9800</color>         <!-- Orange for stop -->
+        <color name="colorBusStopDisabled">#BDBDBD</color> <!-- Gray for disabled stop button -->
+    <color name="colorTextSharing">#14E28D</color>
+    <color name="colorTextIdle">#F44336</color>
+    <color name="colorButtonDisabled">#14E28D</color>
+    <color name="colorButtonEnabled">#F44336</color>
+
+        <color name="white">#FFFFFF</color>
+        <color name="colorBusSharing">#1E88E5</color> <!-- Change to your desired color -->
+        <color name="colorBusIdle">#BDBDBD</color> <!-- Change to your desired color -->
+
+
+
+</resources>
