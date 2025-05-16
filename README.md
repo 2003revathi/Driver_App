@@ -51,22 +51,23 @@ This system includes two mobile applications:
 > Make sure you've uploaded the below images to your GitHub repo
 
 ### 🚖 Driver App – Bus List and Toggle Button  
-![Driver Home]("C:\Users\Revat\OneDrive\Documents\driver app bus count.jpg")
+![Driver Home](./driver_app_bus_count.jpg)
 
 ---
 
 ### 👪 Parent App – Home Screen with Buses  
-![Parent Home]("C:\Users\Revat\OneDrive\Documents\bus number in parent app.jpg")
+![Parent Home](./bus_number_in_parent_app.jpg)
 
 ---
 
 ### 📍 Live Bus Location on Map  
-![Live Tracking]("C:\Users\Revat\OneDrive\Documents\bus location history .jpg")
+![Live Tracking](./bus_location_history.jpg)
 
 ---
 
 ### 📅 Previous Day’s Route History  
-![History Page]("C:\Users\Revat\OneDrive\Documents\real bus history.jpg")
+![History Page](./real_bus_history.jpg)
+
 
 ---
 
