@@ -50,23 +50,31 @@ This system includes two mobile applications:
 
 > Make sure you've uploaded the below images to your GitHub repo
 
+## 📷 Screenshots
+
 ### 🚖 Driver App – Bus List and Toggle Button  
-![Driver Home](./driver_app_bus_count.jpg)
+![Driver Home](./driver%20app%20bus%20count.jpg)
 
 ---
 
 ### 👪 Parent App – Home Screen with Buses  
-![Parent Home](./bus_number_in_parent_app.jpg)
+![Parent Home](./bus%20number%20in%20parent%20app.jpg)
 
 ---
 
 ### 📍 Live Bus Location on Map  
-![Live Tracking](./bus_location_history.jpg)
+![Live Tracking](./bus%20location%20history%20.jpg)
 
 ---
 
 ### 📅 Previous Day’s Route History  
-![History Page](./real_bus_history.jpg)
+![History Page](./real%20bus%20history.jpg)
+
+---
+
+### ✅ Toggle Button Enabled  
+![Toggle Enabled](./location%20sharing%20enbled.jpg)
+
 
 
 ---
