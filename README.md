@@ -88,7 +88,7 @@ This system includes two mobile applications:
 
 ## 🙋‍♂️ Developer
 
-**Name:**Revathi V
+**Name:** Revathi V
 **Email:** csrevathiv@gmail.com  
 **College:** PSR ENGINEERING COLLEGE
 
