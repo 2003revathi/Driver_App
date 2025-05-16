@@ -1,6 +1,6 @@
-# 🚍 SayFruit Bus Tracking Application
+# 🚍 SafeRoute Bus Tracking Application
 
-SayFruit is a smart and simple **bus tracking system** designed for schools and colleges. It helps **parents track their child's school bus** in real-time and also view travel history for safety.
+SafeRoute is a smart and simple **bus tracking system** designed for schools and colleges. It helps **parents track their child's school bus** in real-time and also view travel history for safety.
 
 ---
 
