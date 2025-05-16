@@ -48,10 +48,6 @@ This system includes two mobile applications:
 
 ## 📷 Screenshots
 
-> Make sure you've uploaded the below images to your GitHub repo
-
-## 📷 Screenshots
-
 ### 🚖 Driver App – Bus List and Toggle Button  
 ![Driver Home](./driver%20app%20bus%20count.jpg)
 
