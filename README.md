@@ -57,8 +57,8 @@ This system includes two mobile applications:
 
 ---
 
-### 👪 Parent App – Home Screen with Buses  
-![Parent Home](./bus%20number%20in%20parent%20app.jpg)
+### ✅ Toggle Button Enabled  
+![Toggle Enabled](./location%20sharing%20enbled.jpg)
 
 ---
 
@@ -67,15 +67,13 @@ This system includes two mobile applications:
 
 ---
 
-### 📅 Previous Day’s Route History  
-![History Page](./real%20bus%20history.jpg)
+### 👪 Parent App – Home Screen with Buses  
+![Parent Home](./bus%20number%20in%20parent%20app.jpg)
 
 ---
 
-### ✅ Toggle Button Enabled  
-![Toggle Enabled](./location%20sharing%20enbled.jpg)
-
-
+### 📅 Previous Day’s Route History  
+![History Page](./real%20bus%20history.jpg)
 
 ---
 
