@@ -61,7 +61,7 @@ This system includes two mobile applications:
 ---
 
 ### 📍 Live Bus Location on Map  
-![Live Tracking](./bus_location_history.jpg)
+![Live Tracking](./bus location history.jpg)
 
 ---
 
